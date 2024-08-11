@@ -11,7 +11,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "Haroth Group - Under Maintenance",
-  description: 'This is a simple coming soon template built with NextJS and TailwindCSS. It is a lightweight and responsive template that can be used for various projects that require a "coming soon" page.',
+  description: ' HCS - Haroth cloud services, We are Introduce our New Frontier "coming soon" ',
 }
 
 export default function RootLayout({
