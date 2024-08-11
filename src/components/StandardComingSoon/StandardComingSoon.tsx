@@ -13,7 +13,7 @@ export default function StandardComingSoon() {
     sitetagline,
     description,
     copyrightText,
-    sitelogo,
+    // sitelogo,
     siteurl,
     socialIcons,
     socialIconsHeading,
