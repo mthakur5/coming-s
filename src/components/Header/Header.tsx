@@ -3,7 +3,7 @@ import data from "../../../data/data";
 import Navigation from "../Navigation/Navigation";
 
 function Header() {
-  const { sitename, sitetagline, siteurl } = data;
+  const { siteurl } = data;
   return (
     <>
     <section className="container mx-auto p-4 text-center">
@@ -18,10 +18,10 @@ function Header() {
           >
             <div className="flex flex-col text-center">
               <h1 className="text-2xl uppercase lgtext-4xl text-sky-400/100 font-semibold	">
-                {sitename}
+                {/* {sitename} */}
               </h1>
               <p className="text-xl font-xl m-2 text-slate-800 dark:text-slate-100">
-                {sitetagline}
+                {/* {sitetagline} */}
               </p>
             </div>
           </a>
