@@ -10,7 +10,7 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: "Haroth Group - Under Maintenance",
+  title: "HCS - Haroth Cloud services, Indian will Reach New height of Technologies.",
   description: ' HCS - Haroth cloud services, We are Introduce our New Frontier "coming soon" ',
 }
 

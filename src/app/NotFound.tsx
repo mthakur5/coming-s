@@ -3,7 +3,7 @@ import data from "../../data/data";
 import Image from "next/image";
 import Link from "next/link";
 
-function ComingSoonContent() {
+function notfound() {
   const { description, title } = data;
 
   return (
@@ -34,4 +34,4 @@ function ComingSoonContent() {
   );
 }
 
-export default ComingSoonContent;
+export default notfound;
