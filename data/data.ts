@@ -15,7 +15,7 @@ const data = {
     socialIcons: [
         {
             icon: "facebook",
-            link: "https://www.facebook.com/haroth.official",
+            link: "https://www.facebook.com/profile.php?id=61564756415722",
         },
         {
             icon: "twitter",
