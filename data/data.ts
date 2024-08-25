@@ -23,7 +23,7 @@ const data = {
         },
         {
             icon: "linkedIn",
-            link: "https://www.linkedin.com/company/haroth-com-online-furniture-shopping-store/?originalSubdomain=in",
+            link: "https://www.linkedin.com/company/hcs-haroth-cloud-services",
         },
     ],
     hide :{

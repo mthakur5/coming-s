@@ -15,8 +15,8 @@ export default function StandardComingSoon() {
     copyrightText,
     // sitelogo,
     siteurl,
-    // socialIcons,
-    // socialIconsHeading,
+    socialIcons,
+    socialIconsHeading,
     title,
   } = data;
 
