@@ -16,12 +16,12 @@ function ComingSoonContent() {
           </span>
           <span className="">⏳</span>
         </h2>
-        <p
+        {/* <p
           className="text-2xl md:text-3xl px-6 max-w-3xl text-center m-5 text-slate-800 dark:text-slate-100 font-thin"
           dangerouslySetInnerHTML={{
             __html: description,
           }}
-        ></p>
+        ></p> */}
 
         {/* Button to redirect to furniture.haroth.com */}
         <Link href="https://furniture.haroth.com" passHref>
